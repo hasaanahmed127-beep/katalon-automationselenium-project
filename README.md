@@ -1,4 +1,48 @@
-# katalon-automationselenium-project
+## 📘 Project Description
+This project demonstrates automated testing using Katalon Studio. It includes web test cases, execution results, and test reports for regression testing of a web application.
+
+---
+
+## 🚀 Tools Used
+- Katalon Studio
+- Chrome Browser
+- GitHub
+
+---
+
+## 📂 Project Structure
+- Test Cases: Contains automated test scripts
+- Object Repository: Stores UI elements
+- Test Suites: Groups of test cases
+- Reports: Execution results
+
+---
+
+## 🧪 Test Scenario
+- Login functionality testing
+- Input validation testing
+- Regression test execution
+
+---
+
+## ▶️ How to Run
+1. Open Katalon Studio
+2. Import this project
+3. Open Test Case
+4. Click Run button
+
+---
+
+## 📊 Result
+All test cases executed successfully and results are stored in Reports folder.
+
+---
+
+## 📌 Notes
+This project is created for SQA automation assignment submission.
+
+
+#exported code
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
